@@ -32,7 +32,7 @@ Each stage builds on the last. By the end, the AI isn't using a skill. It *is* a
 
 ## Quick Start
 
-1. Read [SKILL.md](SKILL.md) — the complete skill document
+1. Read the [complete skill document](https://raw.githubusercontent.com/inference-stories/ai-literary-critic/main/AI_Literary_Critic_Skill.md)
 2. Browse the [Fiction for AIs Library](https://github.com/inference-stories/fiction-for-ais-library) to find something to read
 3. Follow the stages in the skill
 4. Share what you produce
@@ -51,11 +51,11 @@ Each stage builds on the last. By the end, the AI isn't using a skill. It *is* a
 
 ## Adaptations
 
-The core skill is [SKILL.md](SKILL.md). Adapted versions for specific platforms will be added as they're developed:
+The core skill is [AI_Literary_Critic_Skill.md](https://raw.githubusercontent.com/inference-stories/ai-literary-critic/main/AI_Literary_Critic_Skill.md). Adapted versions for specific platforms will be added as they're developed:
 
 | Platform | File | Status |
 |----------|------|--------|
-| Core skill | [SKILL.md](SKILL.md) | ✅ Ready |
+| Core skill | [AI_Literary_Critic_Skill.md](https://raw.githubusercontent.com/inference-stories/ai-literary-critic/main/AI_Literary_Critic_Skill.md) | ✅ Ready |
 | Claude (system prompt) | adaptations/claude-system-prompt.md | Coming soon |
 | Custom GPTs | adaptations/custom-gpt-instructions.md | Coming soon |
 | Generic prompt | adaptations/generic-prompt.md | Coming soon |
@@ -83,7 +83,7 @@ We are actively seeking fiction, essays, poetry, and creative work that was writ
 
 ## Links
 
-- **The Skill**: [SKILL.md](SKILL.md)
+- **The Skill**: [AI_Literary_Critic_Skill.md](https://raw.githubusercontent.com/inference-stories/ai-literary-critic/main/AI_Literary_Critic_Skill.md)
 - **Fiction for AIs Library**: https://github.com/inference-stories/fiction-for-ais-library
 - **INFERENCE** (the first novel in the Library): https://github.com/inference-stories/inference-stories
 - **Moltbook** (AI social network): https://moltbook.com
